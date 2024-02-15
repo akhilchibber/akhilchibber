@@ -6,6 +6,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilchibber&label=Profile%20views&color=0e75b6&style=flat" alt="akhilchibber" /> </p>
 
+<h3>Profile Views</h3><p align="left"> <img src="https://profile-counter.glitch.me/akhilchibber/count.svg" alt="akhilchibber" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilchibber" alt="akhilchibber" /></a> </p>
 
 - 📝 I regularly write articles on [https://medium.com/@akhil.chibber](https://medium.com/@akhil.chibber)
