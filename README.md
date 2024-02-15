@@ -2,7 +2,7 @@
 
 <h3 align="center">A Professional Machine Learning Engineer in the Netherlands!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://github.com/akhilchibber/akhilchibber/blob/main/Machine-Learning.jpeg">
+<p align="center"><img src="[https://github.com/akhilchibber/Flower-Recognition/blob/main/Flowers.png](https://github.com/akhilchibber/akhilchibber/blob/main/Machine-Learning.jpeg)?raw=true" alt="earthml Logo"></p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilchibber" alt="akhilchibber" /></a> </p>
 
