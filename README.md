@@ -32,7 +32,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akhilchibber&" alt="akhilchibber" /></p>
 
-## 💰 You can Support my Machine Learning efforts by Donating
+## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AkhilChibber) 
   
 <!--
