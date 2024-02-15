@@ -35,7 +35,7 @@
 ## 💰 You can help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/AkhilChibber) 
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/akhilchibber/akhilchibber/blob/output/github-contribution-grid-snake.gif)
 
 <!--
 **akhilchibber/akhilchibber** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
