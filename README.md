@@ -1,4 +1,4 @@
-### Hi there, I'm Akhil Chhibber👋
+<h1 align="center">Hi there, I'm Akhil Chhibber👋</h1>
 
 <h3 align="center">A Professional Machine Learning Engineer in the Netherlands!</h3>
 
