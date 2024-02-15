@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilchibber" alt="akhilchibber" /></a> </p>
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@akhil.chibber)
-
 - 📫 How to reach me **akhil.chibber@gmail.com**
 
 ### Blogs posts
