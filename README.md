@@ -2,7 +2,7 @@
 
 <h3 align="center">A Professional Machine Learning Engineer, living and working in the Netherlands🇳🇱</h3>
 
-<p align="center"><img src="https://github.com/akhilchibber/akhilchibber/blob/main/Machine_Learning.png?raw=true" alt="earthml Logo"></p>
+<p align="center"><img src="https://github.com/akhilchibber/akhilchibber/blob/main/Machine-Learning.png?raw=true" alt="earthml Logo"></p>
 
 <h3>Profile Views</h3><p align="left"> <img src="https://profile-counter.glitch.me/akhilchibber/count.svg" alt="akhilchibber" /> </p>
 
